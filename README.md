@@ -9,6 +9,7 @@ Este foi o meu primeiro projeto com as tecnologias básicas do frontend; agora c
 - CSS 
 - JS
 <img src="gif-tecnologias.gif" alt="git da tela do projeto pokemon">
+
 ## Como utilizar
 Sendo um projeto bem básico, no momento, a única interação seria a mudança de tema na tela principal.
 
